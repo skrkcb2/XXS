@@ -3,9 +3,9 @@
 #### 특징: 공격자의 악성 스크립트가 URL이나 요청에 포함되어 서버에서 직접 실행된 후, 사용자에게 반환. 서버가 응답을 보낼 때 스크립트가 실행 됩니다.
 #### 1. 취약 사이트 파악
 ![s_REXSS](https://github.com/user-attachments/assets/aa39c1c9-ce41-41b9-9b8b-c9229e84b86c)
-##### 2. 취약 사이트의 악성 스크립트가 들어간 주소 단축
+#### 2. 취약 사이트의 악성 스크립트가 들어간 주소 단축
 ![image](https://github.com/user-attachments/assets/fd5f69a4-feac-4a95-a049-faeb726fabf9)
-##### 3. 사용자에게 메일 전송 후 클릭 시 악성 스크립트 작동
+#### 3. 사용자에게 메일 전송 후 클릭 시 악성 스크립트 작동
 ![s2_REXSS](https://github.com/user-attachments/assets/75fb7db3-9ce3-4f99-9f84-6dce148ad1b9)
 
 
