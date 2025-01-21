@@ -34,7 +34,7 @@
 #### 3.2 자바 스크립트, CSP(Content Security Policy)설정 
 #### 자바 스크립트이 경우에는 InnerHTML 대신 textContent를 사용하여 스크립트 방지   
 ![innerHTML](https://github.com/user-attachments/assets/29faad00-585b-4a1d-be5d-e7f8bb9b79fb)
-#### CSP의 경우에는 웹 서버 설정에 반영  
+#### CSP의 경우에는 웹 서버 설정에 반영(apache)
 #### Header set Content-Security-Policy "default-src 'self'; script-src 'self' https://trusted.com;"
 
 
